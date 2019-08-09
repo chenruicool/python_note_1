@@ -1,3 +1,3 @@
-学习笔记 ==> python编程:从入门到实践
+学习笔记 ==> PHP 教程
 
-https://github.com/ehmatthes/pcc_2e
+https://www.runoob.com/php/php-tutorial.html
